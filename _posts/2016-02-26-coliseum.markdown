@@ -1,0 +1,17 @@
+---
+title: "Rome - Coliseum"
+layout: post
+date: 2016-02-24 22:44
+image: /assets/photos/IMG_0843.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: false
+category: blog
+author: lucassantos
+description: Coliseum
+city: Rome
+country: Italy
+external_date: 2016-02-25 20:01
+---

@@ -1,0 +1,17 @@
+---
+title: "Amsterdam - Atlas"
+layout: post
+date: 2016-02-24 22:44
+image: /assets/photos/atlas.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: false
+category: blog
+author: lucassantos
+description: Atlas was condemned by Zeus to hold heaven forever
+city: Amsterdam
+country: Netherlands
+external_date: 2016-02-25 20:01
+---
