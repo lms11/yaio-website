@@ -2,7 +2,7 @@
 title: "Pompeii"
 layout: post
 date: 2016-03-01 15:10
-image: /assets/photos/IMG_0474.jpg
+image: /assets/photos/IMG_1024.jpg
 headerImage: false
 tag:
 - markdown
