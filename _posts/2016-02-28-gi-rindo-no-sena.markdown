@@ -10,7 +10,7 @@ tag:
 star: false
 category: blog
 author: lucassantos
-description: Gi found something to be really funny
+description: Gi found out something really funny
 city: Paris
 country: France
 external_date: 2016-02-28 15:10
