@@ -1,0 +1,17 @@
+---
+title: "Venice - Italy"
+layout: post
+date: 2016-03-03 15:10
+image: /assets/photos/IMG_0543.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: false
+category: blog
+author: lucassantos
+description: We could be a band
+city: Venice
+country: Italy
+external_date: 2016-03-03 15:10
+---
