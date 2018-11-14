@@ -55,6 +55,7 @@ github: lms11
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # email: myemail@gmail.com
+about: true
 
 authors:
     johndoe:
